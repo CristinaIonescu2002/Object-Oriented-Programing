@@ -1,12 +1,12 @@
 # Ionescu Cristina 323CC
 
-###Gradul de dificultate al temei:
+### Gradul de dificultate al temei:
 8, pentru mine partea de interfata grafica a fost mai grea
 
-###Timpul alocat rezolvarii:
+### Timpul alocat rezolvarii:
 2 saptamani
 
-###Modul de rezolvare a temei:
+### Modul de rezolvare a temei:
 #### ! Voi mentiona doar ce am modificat sau adaugat pe langa cerintele temei
 
 #####   Catalog:
